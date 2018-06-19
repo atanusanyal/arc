@@ -210,11 +210,39 @@
 			},
 			{
 				"author": "Atanu Sanyal",
-				"url": "",
-				"thumbUrl": "",
+				"url": "https://image.ibb.co/c4rf5J/i4.png",
+				"thumbUrl": "https://image.ibb.co/c4rf5J/i4.png",
 				"name": "Wallpaper 24",
                 "category": "forest"
+			},
+		        {
+				"author": "Atanu Sanyal",
+				"url": "https://preview.ibb.co/hSqJsy/i2.png",
+				"thumbUrl": "https://preview.ibb.co/hSqJsy/i2.png",
+				"name": "Wallpaper 25",
+                "category": "forest"
+			},
+		        {
+				"author": "Atanu Sanyal",
+				"url": "https://image.ibb.co/id2bed/i3.png",
+				"thumbUrl": "https://image.ibb.co/id2bed/i3.png",
+				"name": "Wallpaper 26",
+                "category": "forest"
+			},
+		        {
+				"author": "Atanu Sanyal",
+				"url": "https://image.ibb.co/f3KBCy/i1.png",
+				"thumbUrl": "https://image.ibb.co/f3KBCy/i1.png",
+				"name": "Wallpaper 27",
+                "category": "forest"
+			},
+		        {
+				"author": "Atanu Sanyal",
+				"url": "https://preview.ibb.co/d3N1ed/arc_wallpaper_22.png",
+				"thumbUrl": "https://preview.ibb.co/d3N1ed/arc_wallpaper_22.png",
+				"name": "Wallpaper 28",
+                "category": "forest"
 			}
-            
+		      
 		]
 }
